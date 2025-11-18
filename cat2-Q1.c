@@ -1,6 +1,6 @@
 //Hello World
 /*
-NAME: Odongo Esther were 
+NAME: Ondieki Deborah 
 REG NO: PA106/G/28753/25
 */
 #include <stdio.h>
@@ -27,3 +27,4 @@ int main()
 
     return 0;
 }
+
